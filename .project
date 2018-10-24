@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ch99_StudentTest</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/AddActionListener.java</name>
+			<type>1</type>
+			<location>G:/00_JAVA_Security/01_Java/java_material/java_제3자료_뇌새김/chap19_Swing/19-2-4/example3/AddActionListener.java</location>
+		</link>
+		<link>
+			<name>src/RemoveActionListener.java</name>
+			<type>1</type>
+			<location>G:/00_JAVA_Security/01_Java/java_material/java_제3자료_뇌새김/chap19_Swing/19-2-4/example3/RemoveActionListener.java</location>
+		</link>
+		<link>
+			<name>src/WindowExample8.java</name>
+			<type>1</type>
+			<location>G:/00_JAVA_Security/01_Java/java_material/java_제3자료_뇌새김/chap19_Swing/19-2-4/example3/WindowExample8.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
